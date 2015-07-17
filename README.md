@@ -1,2 +1,2 @@
 # project
-![alt tag](http://postimg.org/image/glai4yc33/)
+![alt tag](http://s6.postimg.org/ssgcjiwvj/total_number_hour.png)
