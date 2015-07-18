@@ -22,4 +22,4 @@ the total of retweet change with time
 
 Accordind to the result, sending tweets at late night 24:00 is more likely to be replied, retweeted or mentioned.   
 
-data Source: Higgs Twitter Dataset(http://snap.stanford.edu/data/higgs-twitter.html)
+Data Source: Higgs Twitter Dataset(http://snap.stanford.edu/data/higgs-twitter.html)
